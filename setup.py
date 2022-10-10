@@ -1,8 +1,6 @@
 import setuptools
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
-
+long_description =''
 setuptools.setup(
     name="youtube-search-python",
     version="1.6.6",
